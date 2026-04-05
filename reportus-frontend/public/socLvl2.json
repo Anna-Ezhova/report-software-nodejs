@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "groupName": "SOC L2",
+    "tasks": [
+      {
+        "id": 101,
+        "taskName": "Ist es ein valider Security Incident?",
+        "completed": false,
+        "timestamp": "",
+        "type": "question",
+        "condition": false
+      },
+
+      {
+        "id": 102,
+        "taskName": "Kommentar",
+        "completed": false,
+        "timestamp": "",
+        "type": "input",
+        "text": ""
+      },
+
+      {
+        "id": 103,
+        "taskName": "Prio",
+        "completed": false,
+        "timestamp": "",
+        "text": "",
+        "type": "select"
+      }
+    ],
+    "timestamp": "",
+    "completed": false
+  }
+]

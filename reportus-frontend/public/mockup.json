@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "groupName": "SOC L1",
+    "tasks": [
+      {
+        "id": 101,
+        "taskName": "Analyst Kontaktieren",
+        "completed": false,
+        "timestamp": "",
+        "type": "simple_task"
+      },
+      {
+        "id": 102,
+        "taskName": "Ist es ein Security Incident?",
+        "completed": false,
+        "timestamp": "",
+        "type": "question",
+        "condition": false
+      },
+      {
+        "id": 103,
+        "taskName": "Aufgabenblock beenden",
+        "completed": false,
+        "timestamp": "",
+        "type": "simple_task"
+      }
+    ],
+    "timestamp": "",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "groupName": "SOC L2",
+    "tasks": [
+      {
+        "id": 201,
+        "taskName": "SOC L2/IRT-Analyst kontaktieren",
+        "completed": false,
+        "timestamp": "",
+        "type": "simple_task"
+      },
+      {
+        "id": 202,
+        "taskName": "Ist es ein valider Security Incident?",
+        "completed": false,
+        "timestamp": "",
+        "type": "question",
+        "condition": false
+      },
+      {
+        "id": 203,
+        "taskName": "Aufgabenteil beenden",
+        "completed": false,
+        "timestamp": "",
+        "type": "simple_task"
+      }
+    ],
+    "timestamp": "",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "groupName": "Incident Spezifikation",
+    "tasks": [
+      {
+        "id": 301,
+        "taskName": "Angriffskategorie",
+        "completed": false,
+        "timestamp": "",
+        "type": "input",
+        "text": ""
+      },
+      {
+        "id": 302,
+        "taskName": "Prio",
+        "completed": false,
+        "timestamp": "",
+        "text": "",
+        "type": "select"
+      },
+      {
+        "id": 303,
+        "taskName": "Aufgabenteil beenden",
+        "completed": false,
+        "timestamp": "",
+        "type": "simple_task"
+      }
+    ],
+    "timestamp": "",
+    "completed": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "groupName": "SOC L1",
+    "tasks": [
+      {
+        "id": 101,
+        "taskName": "Weitere Prüfung notwendig?",
+        "completed": false,
+        "timestamp": "",
+        "type": "question",
+        "condition": false
+      },
+      {
+        "id": 102,
+        "taskName": "Kommentar",
+        "completed": false,
+        "timestamp": "",
+        "type": "input",
+        "text": ""
+      }
+    ],
+    "timestamp": "",
+    "completed": false
+  }
+]
